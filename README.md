@@ -1,0 +1,1 @@
+A Rust-based attempt at solving Advent of Code, with a focus on performance/efficiency.
